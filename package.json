@@ -1,0 +1,24 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "node js app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paschalidis/node-js.git"
+  },
+  "author": "Pavlos Paschalidis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paschalidis/node-js/issues"
+  },
+  "homepage": "https://github.com/paschalidis/node-js#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2"
+  }
+}
